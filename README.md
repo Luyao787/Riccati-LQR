@@ -9,8 +9,8 @@ For more information, please refer to the [tutorial](https://luyao787.github.io/
 
 ## Dependencies
 
-- **Eigen3**: Linear algebra library
-- **CMake**: Build system
+- **Eigen**: Linear algebra library
+- **CMake**
 
 ## Building
 
